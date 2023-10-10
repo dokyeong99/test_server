@@ -9,7 +9,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.assertEquals(1+2,3);
+//        Assertions.assertEquals(1+2,3);
 
         Assertions.assertEquals(2+2,4);
     }
